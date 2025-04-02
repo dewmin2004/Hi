@@ -1,0 +1,3 @@
+enter your exam number
+sample tex
+this is a text file
